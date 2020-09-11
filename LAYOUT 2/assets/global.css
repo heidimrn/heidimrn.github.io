@@ -4,37 +4,37 @@
    }
 
    main section.yess {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 10px;
-	margin-top: 5px;   
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+	   margin-left: 10px;
+	   margin-top: 5px;   
 }
 
    main section .jiminie {
-	position: relative;
-	width: 91.5vw; /*viewport width */
-	height:95px;
-	float: left;
-	margin-top: 10px;
-    margin-left: 10px;
-	background-color: #FFCAE9;
+	   position: relative;
+	   width: 91.5vw; /*viewport width */
+	   height:95px;
+	   float: left;
+	   margin-top: 10px;
+	   margin-left: 10px;
+	   background-color: #FFCAE9;
 }
    main section.yeehaw {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 10px;
-	margin-top: 5px;
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+	   margin-left: 10px;
+	   margin-top: 5px;
    }
 
    .seulgi {
-    background-color: #A3E4D7;
-    width: 30.1vw; /* viewport width*/;
-    float: left;
-    height: 100px;
-    margin-top: 10px;
-    margin-left: 10px;
+	   background-color: #A3E4D7;
+	   width: 30.1vw; /* viewport width*/;
+	   float: left;
+	   height: 100px;
+	   margin-top: 10px;
+	   margin-left: 10px;
    }
 
    .wonho {
