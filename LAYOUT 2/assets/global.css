@@ -2,20 +2,22 @@
     margin: 0;
     padding: 0;
    }
+
    main section.yess {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-left: 10px;
-	margin-top: 5px;   }
+	margin-top: 10px;   }
 
-main section .jiminie
+   main section .jiminie
 {
 	position: relative;
 	width: 91.5vw; /*viewport width */
 	height:95px;
 	float: left;
-	margin: 5px;
+	margin-top: 10px;
+    margin-left: 10px;
 	background-color: #FFCAE9;
 }
    main section.yeehaw {
@@ -23,7 +25,7 @@ main section .jiminie
     justify-content: center;
     align-items: center;
     margin-left: 10px;
-	margin-top: 5px;
+	margin-top: 10px;
    }
 
    .seulgi {
@@ -31,9 +33,8 @@ main section .jiminie
     width: 30vw; /* viewport width*/;
     float: left;
     height: 100px;
-    margin: 5px;
-    margin-top:     
-    margin-left: 
+    margin-top: 10px;
+    margin-left: 10px;
 
    }
 
@@ -41,9 +42,8 @@ main section .jiminie
     background-color: #A3E4D7;
     width: 30vw; /* viewport width*/;
     height: 45px;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-top: 5px;
+    margin-top: 64px;
+    margin-left: 10px;
     float: left;
     justify-content: center;
     align-items: center;
@@ -54,7 +54,7 @@ main section .jiminie
     justify-content: center;
     align-items: center;
     margin-left: 10px;
-	margin-top: 5px;
+	margin-top: 10px;
    }
 
    .jjuni {
@@ -63,11 +63,10 @@ main section .jiminie
     background-color: #AED6F1;
     float: left;
     display: flex;
-    margin: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
     justify-content: center;
     align-items: center;
-    margin-left: 
-    margin-top: 
     }
 
    main section.yeet {
@@ -75,7 +74,7 @@ main section .jiminie
     justify-content: center;
     align-items: unset;
     margin-left: 10px;
-	margin-top: 5px;
+	margin-top: 10px;
    }
 
    .junkyu {
@@ -84,18 +83,18 @@ main section .jiminie
     background-color: #AED6F1;
     float: left;
     display: flex;
-    margin: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
     justify-content: center;
     align-items: center;
-    margin-left: 
-    margin-top: 
     }
 
    .cio {
     width: 17.7vw; /* viewport width*/;
     height: 110px;
     background-color: #D7BDE2;
-    margin: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
     float: left;
 
    }
@@ -104,6 +103,7 @@ main section .jiminie
     width: 17.7vw; /* viewport width*/;
     height: 70px;
     background-color: #F9E79F;
-   margin: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
     float: left;
    }
