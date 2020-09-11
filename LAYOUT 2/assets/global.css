@@ -17,7 +17,7 @@ main section
 main section .jiminie
 {
 	position: relative;
-	width: 92vw; /*viewport width */
+	width: 91.8vw; /*viewport width */
 	height:95px;
 	float: left;
 	margin: 5px;
@@ -27,7 +27,7 @@ main section .jiminie
 main section .seulgi
 {
 
-	width: 30.3vw; /*viewport width */
+	width: 30.1vw; /*viewport width */
 	height: 100px;
 	margin: 5px;
 	float: left;
@@ -40,7 +40,7 @@ main section .wonho
 	width: 30.2vw; /*viewport width */
 	height: 45px;
 	margin: 5px;
-	margin-top: 54px;
+	margin-top: 58px;
 	float: left;
 	background-color: #A3E4D7;
 }
