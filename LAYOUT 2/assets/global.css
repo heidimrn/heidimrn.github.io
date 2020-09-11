@@ -38,70 +38,70 @@
    }
 
    .wonho {
-    background-color: #A3E4D7;
-    width: 30.1vw; /* viewport width*/;
-    height: 45px;
-    margin-top: 64px;
-    margin-left: 10px;
-    float: left;
-    justify-content: center;
-    align-items: center;
+	   background-color: #A3E4D7;
+	   width: 30.1vw; /* viewport width*/;
+	   height: 45px;
+	   margin-top: 64px;
+	   margin-left: 10px;
+	   float: left;
+	   justify-content: center;
+	   align-items: center;
    }
 
    main section.yeeyee {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 10px;
-    margin-top: 5px;
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+	   margin-left: 10px;
+	   margin-top: 5px;
    }
 
    .jjuni {
-    height: 150px;
-    width: 17.7vw; /* viewport width*/;
-    background-color: #AED6F1;
-    float: left;
-    display: flex;
-    margin-top: 10px;
-    margin-left: 10px;
-    justify-content: center;
-    align-items: center;
+	   height: 150px;
+	   width: 17.7vw; /* viewport width*/;
+	   background-color: #AED6F1;
+	   float: left;
+	   display: flex;
+	   margin-top: 10px;
+	   margin-left: 10px;
+	   justify-content: center;
+	   align-items: center;
     }
 
    main section.yeet {
-    display: flex;
-    justify-content: center;
-    align-items: unset;
-    margin-left: 10px;
-    margin-top: 5px;
+	   display: flex;
+	   justify-content: center;
+	   align-items: unset;
+	   margin-left: 10px;
+	   margin-top: 5px;
    }
 
    .junkyu {
-    height: 150px;
-    width: 17.7vw; /* viewport width*/;
-    background-color: #AED6F1;
-    float: left;
-    display: flex;
-    margin-top: 10px;
-    margin-left: 10px;
-    justify-content: center;
-    align-items: center;
+	   height: 150px;
+	   width: 17.7vw; /* viewport width*/;
+	   background-color: #AED6F1;
+	   float: left;
+	   display: flex;
+	   margin-top: 10px;
+	   margin-left: 10px;
+	   justify-content: center;
+	   align-items: center;
     }
 
    .cio {
-    width: 17.7vw; /* viewport width*/;
-    height: 110px;
-    background-color: #D7BDE2;
-    margin-top: 10px;
-    margin-left: 10px;
-    float: left;
+	   width: 17.7vw; /* viewport width*/;
+	   height: 110px;
+	   background-color: #D7BDE2;
+	   margin-top: 10px;
+	   margin-left: 10px;
+	   float: left;
    }
 
    .hyunsuk {
-    width: 17.7vw; /* viewport width*/;
-    height: 70px;
-    background-color: #F9E79F;
-    margin-top: 10px;
-    margin-left: 10px;
-    float: left;
+	   width: 17.7vw; /* viewport width*/;
+	   height: 70px;
+	   background-color: #F9E79F;
+	   margin-top: 10px;
+	   margin-left: 10px; 
+	   float: left;
    }
