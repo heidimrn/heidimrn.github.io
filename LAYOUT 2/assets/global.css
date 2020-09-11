@@ -1,17 +1,13 @@
 * {
-	margin: 0;
-	padding: 0;
-}
-
-main section
-{
-	width: 100vw; /*viewport width */
-	align-items: center;
-	justify-content: center;
-	height: 0px;
-	margin-left: 49px;
-	margin-top: 5px;
-}
+    margin: 0;
+    padding: 0;
+   }
+   main section.yess {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+	margin-top: 5px;   }
 
 main section .jiminie
 {
@@ -22,60 +18,92 @@ main section .jiminie
 	margin: 5px;
 	background-color: #FFCAE9;
 }
+   main section.yeehaw {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+	margin-top: 5px;
+   }
 
-main section .seulgi
-{
+   .seulgi {
+    background-color: #A3E4D7;
+    width: 30vw; /* viewport width*/;
+    float: left;
+    height: 100px;
+    margin: 5px;
+    margin-top:     
+    margin-left: 
 
-	width: 30vw; /*viewport width */
-	height: 100px;
-	margin: 5px;
-	float: left;
-	background-color: #A3E4D7;
-}
+   }
 
-main section .wonho
-{
-	
-	width: 30vw; /*viewport width */
-	height: 45px;
-	margin: 5px;
-	margin-top: 58px;
-	float: left;
-	background-color: #A3E4D7;
-}
+   .wonho {
+    background-color: #A3E4D7;
+    width: 30vw; /* viewport width*/;
+    height: 45px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    float: left;
+    justify-content: center;
+    align-items: center;
+   }
 
-main section .jjuni
-{
-	width: 17.7vw; /*viewport width */
-	height: 150px;
-	margin: 5px;
-	float: left;
-	background-color: #AED6F1;
-}
+   main section.yeeyee {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+	margin-top: 5px;
+   }
 
-main section .junkyu
-{
-	width: 17.7vw; /*viewport width */
-	height: 150px;
-	margin: 5px;
-	float: left;
-	background-color: #AED6F1;
-}
+   .jjuni {
+    height: 150px;
+    width: 17.7vw; /* viewport width*/;
+    background-color: #AED6F1;
+    float: left;
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 
+    margin-top: 
+    }
 
-main section .cio
-{
-	width: 17.7vw; /*viewport width */
-	height: 110px;
-	margin: 5px;
-	float: left;
-	background-color: #D7BDE2;
-}
+   main section.yeet {
+    display: flex;
+    justify-content: center;
+    align-items: unset;
+    margin-left: 10px;
+	margin-top: 5px;
+   }
 
-main section .hyunsuk
-{
-	width: 17.7vw; /*viewport width */
-	height: 70px;
-	margin: 5px;
-	float: left;
-	background-color: #F9E79F;
-}
+   .junkyu {
+    height: 150px;
+    width: 17.7vw; /* viewport width*/;
+    background-color: #AED6F1;
+    float: left;
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 
+    margin-top: 
+    }
+
+   .cio {
+    width: 17.7vw; /* viewport width*/;
+    height: 110px;
+    background-color: #D7BDE2;
+    margin: 5px;
+    float: left;
+
+   }
+
+   .hyunsuk {
+    width: 17.7vw; /* viewport width*/;
+    height: 70px;
+    background-color: #F9E79F;
+   margin: 5px;
+    float: left;
+   }
