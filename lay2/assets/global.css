@@ -1,0 +1,79 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+main
+{
+	width: 100vw /*viewport width*/
+	height: 0px;
+	margin: 75px;
+	margin-top: 10px;
+
+}
+
+main .jiminie
+{
+	position: relative;
+	width: 1200px;
+	height:95px;
+	margin: 5px;
+	background-color: #FFCAE9;
+}
+
+main section .seulgi
+{
+
+	width: 393px;
+	height: 95px;
+	margin: 5px;
+	float: left;
+	background-color: #A3E4D7;
+}
+
+main section .wonho
+{
+	
+	width: 393px;
+	height: 45px;
+	margin: 5px;
+	margin-top: 54px;
+	float: left;
+	background-color: #A3E4D7;
+}
+
+main section .jjuni
+{
+	width: 232px;
+	height: 150px;
+	margin: 5px;
+	float: left;
+	background-color: #AED6F1;
+}
+
+main section .junkyu
+{
+	width: 232px;
+	height: 150px;
+	margin: 5px;
+	float: left;
+	background-color: #AED6F1;
+}
+
+main section .cio
+{
+	width: 232px;
+	height: 110px;
+	margin: 5px;
+	float: left;
+	background-color: #D7BDE2;
+}
+
+main section .hyunsuk
+{
+	width: 232px;
+	height: 70px;
+	margin: 5px;
+	float: left;
+	background-color: #F9E79F;
+}
