@@ -274,7 +274,7 @@ table.hoho{
 	float: right;
 	position: absolute;
 	left: 595px;
-	top: 280px;
+	top: 285px;
 	min-width: 35px;
 	width: 35%;
 	font-family: sans-serif;
@@ -286,14 +286,17 @@ table.hoho{
 
 tbody.hoho81 tr td:nth-child(2n){
 	padding-right: 100px;
-	padding-top: 0px;
+	padding-top: 10px;
 	font-family: sans-serif;
 	font-size: 10pt;
 	text-align: right;
+	position: absolute;
+	left: 50px;
 	
 }
 
 img {
 	float: right;
 	padding-right: 83px;
+	padding-left: 255px;
 }
