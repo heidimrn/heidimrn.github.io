@@ -271,35 +271,30 @@ thead.nunu tr th{
 	border-bottom: 1px solid #5AAAFF;
 }
 
-table.nunu81{
+table.hoho{
 
 	float: right;
 	position: absolute;
-	left: 630px;
-	top: 300px;
+	left: 595px;
+	top: 280px;
 	min-width: 35px;
 	width: 28%;
+	font-family: sans-serif;
+	font-size: 30pt;
 
 }
 
-}
-tbody.nunu81 td:first-child
-{
-	
-	font-size: 40px;
-	font-weight: bold;
-	padding-right: 10px;
-	text-align: left;
-	font-family: futura;
-}
 
-tbody.nunu81 tr td
-{
-	border-collapse: collapse;
-	left: 10px;
-	top: 30px;
-	margin: 10px;
+tbody.hoho81 tr td:nth-child(2n){
+	padding-right: 78px;
+	padding-top: 0px;
 	font-family: sans-serif;
 	font-size: 10pt;
+	text-align: right;
 	
+}
+
+img {
+	float: right;
+	padding-right: 0px;
 }
