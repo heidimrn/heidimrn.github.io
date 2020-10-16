@@ -1,0 +1,287 @@
+global.css main {
+   width: 100vw;
+   height: 100vh;
+   padding-top: 50px;
+   position: relative;
+   display: block;
+}
+
+div.wonho {
+   margin-left: 15.981em!important;
+   margin-right: 15.981em!important;
+}
+
+
+.jimin {
+   width: 75%;
+   float: right;
+   font-family: Minion Pro;
+   font-style: bold;
+   font-variant: normal;
+}
+
+h1 {
+   font-size: 9.969em;
+   margin-bottom: 0%;
+}
+
+h2 {
+   font-size: 1.333em;
+   margin-top: 0%;
+}
+
+h3 {
+   font-family: Minion Pro;
+   font-weight: bold;
+   font-style: bold;
+   font-variant: normal;
+   line-height: 1em;
+   font-size: 1.333em;
+}
+
+.yeonjun {
+   width: 75%;
+   float: right;
+   font-family: Helvetica light, sans-serif;
+   font-variant: normal;
+   font-size: 0.75em;
+   font-style: normal;
+}
+
+.junkyu {
+   margin-right: 5em;
+   width: 15%;
+   height: 10%;
+   font-size: 0.563em;
+   line-height: 1.333em;
+   font-family: Helvetica light, sans-serif;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: normal;
+   float: right;
+   text-align: justify;
+}
+
+
+/* hypen*/
+.pjm {
+   width: 100%;
+   float: right;
+   font-family: Minion Pro;
+   font-style: normal;
+   font-variant: bold;
+}
+
+
+h1.cyj {
+   font-size: 9.969em;
+   margin-bottom: 0%;
+}
+
+h2.cyj {
+   margin-top: 0%;
+   font-size: 1.333em;
+}
+
+/* MAIN */
+
+.seulgi {
+   width: 75%;
+   height: auto;
+   line-height: 1.414em;
+   display: block;
+   float: right;
+   font-weight: normal;
+}
+
+.kjk {
+   width: 100%;
+   line-height: 1.333em;
+   height: auto;
+   font-weight: normal;
+   float: right;
+}
+
+.mainc2 {
+   width: 75%;
+   height: auto;
+   line-height: 1.414em;
+   display: block;
+   float: right;
+   font-weight: normal;
+}
+
+p {
+   font-family: Helvetica light, sans-serif;
+   text-indent: 40px;
+   text-align: justify;
+}
+
+.hoho {
+   font-family: Helvetica light, sans-serif;
+   text-align: justify;
+   text-indent: 0%;
+}
+
+
+.junkyunote {
+   width: 20%;
+   margin-top: 30em;
+   font-size: 0.563em;
+   margin-right: 2em;
+   height: auto;
+   text-align: justify;
+   font-family: Helvetica light, sans-serif;
+   font-size: 0.563em;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: normal;
+   float: right;
+}
+
+.cio {
+   width: 75%;
+   line-height: 1.333em;
+   font-size: 1em;
+   height: auto;
+   float: right;
+   display: block;
+   text-align: justify;
+   font-family: Helvetica light, sans-serif;
+   font-variant: normal;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.joon {
+   width: 100%;
+   height: auto;
+   line-height: 1.414em;
+   display: block;
+   float: right;
+   text-align: justify;
+   font-family: Helvetica light, sans-serif;
+   font-size: 1em;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: normal;
+}
+
+.split {
+   margin-top: -1em;
+}
+
+.soob {
+   width: 75%;
+   line-height: 1.414em;
+   text-align: justify;
+   float: right;
+   font-family: Helvetica light, sans-serif;
+   font-size: 1em;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: normal;
+}
+
+.yoona {
+   width: 100%;
+   height: auto;
+   line-height: 1.414em;
+   display: block;
+   float: right;
+   font-family: Helvetica light, sans-serif;
+   font-size: 1em;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: normal;
+   text-align: justify;
+}
+
+table {
+   width: 80%;
+}
+
+.links {
+   text-align: center;
+}
+
+@media screen and (max-width: 341px) {
+   div.shw {
+      margin-left: 1em!important;
+      margin-right: 1em!important;
+   }
+   /* TITLE */
+   .title {
+      text-align: left;
+      width: auto;
+      float: none;
+   }
+   .sub {
+      text-align: left;
+      margin: auto;
+      width: auto;
+   }
+   .h1 {
+      font-size: 4.7421260316732em;
+      width: auto;
+   }
+   h1.judul {
+      font-size: 3em;
+      margin-bottom: 0%;
+      width: auto;
+      margin: auto;
+   }
+   h2 {
+      font-size: 1.5em;
+   }
+   h2.judul {
+      margin-top: 0%;
+      font-size: 1.5em;
+   }
+   /* MAIN */
+   .seulgi {
+      width: auto;
+      margin: auto;
+      text-align: justify;
+   }
+
+   .junkyunote {
+      font-size: 0.563em;
+      width: auto;
+      margin: auto;
+   }
+   .cio {
+      margin: auto;
+      width: auto;
+   }
+   .soob {
+      width: auto;
+      margin: auto;
+   }
+   .didi {
+      width: 100%;
+      margin: auto;
+      text-align: justify;
+   }
+   .h3 {
+      font-size: 1em;
+      width: auto;
+   }
+   .nunu {
+      font-size: 0.563em;
+      font-family: Helvetica light, sans-serif;
+      width: auto;
+      margin: auto;
+   }
+   .hwasa {
+      margin-top: 1em;
+   }
+   .first {
+      margin-bottom: auto;
+   }
+   
+   .ciotable {
+      width: 100%;
+      font-family: Helvetica light, sans-serif;
+   }
+}
