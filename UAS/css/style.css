@@ -67,8 +67,8 @@ header {
 .nav__links a, .cta, .overlay__content a {
    font-family: Avenir;
    font-weight: bold;
-   color: white;
-   text-decoration: none;
+   color: #4A757F;
+   text-decoration: underline;
 }
 
 .overlay__content .cta {
